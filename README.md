@@ -19,6 +19,7 @@ compile('com.solid.skin:skinlibrary:1.4.0') {
 }
 //返回顶部的floatingactionbutton框架
 com.melnykov:floatingactionbutton:1.3.0
+
 LICENSE
 Copyright [2016] [_SOLID]
 
