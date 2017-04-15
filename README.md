@@ -1,9 +1,7 @@
 # MyApp
 这是一个新闻app，tablayout+viewpager实现了主页的新闻，drawerlayout实现左滑菜单
 ## 截图
-![](https://github.com/Wantrer/MyApp/raw/master/raw/1.png)
-![](https://github.com/Wantrer/MyApp/raw/master/raw/2.png)
-![](https://github.com/Wantrer/MyApp/raw/master/raw/3.png)
+![](https://github.com/Wantrer/MyApp/raw/master/screenshot/1.png)![](https://github.com/Wantrer/MyApp/raw/master/screenshot/2.png)![](https://github.com/Wantrer/MyApp/raw/master/screenshot/3.png)
 ## commentpullrefresh框架来刷新
 com.chanven.lib:cptr:1.1.0
 ## fresco加载图片
